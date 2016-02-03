@@ -1,3 +1,3 @@
 function webstorm
-   bash ~/applications/WebStorm-141.456/bin/webstorm.sh
+	~/applications/WebStorm-143.1559.5/bin/webstorm.sh
 end
